@@ -4,8 +4,8 @@
 
 ### 1. Adaptive Speech Emotion Recognition via Reinforcement Learning
 * ▶️ [**View the Live Demo**](https://drive.google.com/file/d/17rmNZwmWLskcx-rQ4crFgactJSqYY_TC/view?usp=sharing)
-* 📽️ [**View the Slides**](https://github.com/kevin2190p/Speech_Emotion-and-Smart_IrriGO/blob/main/Speech_Emotion_Recognition/Speech%20Emotion%20Recognition%20Slides.pdf)
-* 🖼️ [**View the Poster (PDF)**](https://drive.google.com/file/d/1-3w_86FQ2YW9tLBjJ6Q9GZDRYnlMG7x_/view?usp=sharing)
+* 📽️ [**View the Slides**](https://www.canva.com/design/DAGuQrd-JeM/WDJvJlnl3qVTpe3Q9enLJA/view?utm_content=DAGuQrd-JeM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5284379103)
+* 🖼️ [**View the Poster (PDF)**](https://www.canva.com/design/DAGuQrd-JeM/WDJvJlnl3qVTpe3Q9enLJA/view?utm_content=DAGuQrd-JeM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5284379103)
 * </> [**Explore the Project on GitHub**](https://github.com/kevin2190p/SpeechEmotionRL)
 
 ---

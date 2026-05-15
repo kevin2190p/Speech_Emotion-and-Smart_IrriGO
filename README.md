@@ -21,9 +21,16 @@
 ---
 
 ### 3. Unveiling Patterns in Movies and TV Shows on Netflix: A Clustering-Based Analysis 
+* 📄 [**Read the Paper**](https://drive.google.com/file/d/1kHwFEMQiIURPLMQEHkfL2RgYKJOKN6up/view?usp=sharing)
 * </> [**Explore the Project on GitHub**](https://github.com/kevin2190p/Speech_Emotion-and-Smart_IrriGO/tree/main/Netflix_Content_Clustering)
-* * 📽️ [**View the Slides**](https://drive.google.com/file/d/1zUDIQ-uhm4WsNznVkATdIAoOTcHABMbi/view?usp=sharing)
+* 📽️ [**View the Slides**](https://drive.google.com/file/d/1zUDIQ-uhm4WsNznVkATdIAoOTcHABMbi/view?usp=sharing)
 
+---
+
+### 4. From Metadata to Meaning: A Hybrid Clustering and Interpretable Rating Analysis of the Netflix Library
+* 📄 [**Read the Paper**](https://drive.google.com/file/d/1089PXvxCpm79sxPEPWZT44JWVov53Bvv/view?usp=sharing)
+
+---
 
 ## 👥 Authors & Team
 
@@ -39,6 +46,10 @@
 * [**Chok Xue Kang**](https://www.linkedin.com/in/xue-kang-chok-069a88355/)
 * [**Choo Qi Xiang**](https://www.linkedin.com/in/qi-xiang-choo-606544351/)
 * [**Chan Hui Ying**](https://www.linkedin.com/in/chan-hui-ying-865338331)
+
+### 4. From Metadata to Meaning: A Hybrid Clustering and Interpretable Rating Analysis of the Netflix Library
+* [**Chok Xue Kang**](https://www.linkedin.com/in/xue-kang-chok-069a88355/)
+* [**Choo Qi Xiang**](https://www.linkedin.com/in/qi-xiang-choo-606544351/)
 
 ---
 

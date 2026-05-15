@@ -3,6 +3,7 @@
 ### [Project business card](https://github.com/kevin2190p/Speech_Emotion-and-Smart_IrriGO/blob/main/Speech_Emotion_Recognition/Project%20Business%20Card.pdf)
 
 ### 1. Adaptive Speech Emotion Recognition via Reinforcement Learning
+* [**MLHMI'26 Presentation Slides**](Speech_Emotion_Recognition/MLHMI'26%20Presentation%20Slides/Robust%20Real-Time%20FER%20via%20GAN%20Adaptation.pdf)
 * ▶️ [**View the Live Demo**](https://drive.google.com/file/d/17rmNZwmWLskcx-rQ4crFgactJSqYY_TC/view?usp=sharing)
 * 📽️ [**View the Slides**](https://www.canva.com/design/DAGuQrd-JeM/WDJvJlnl3qVTpe3Q9enLJA/view?utm_content=DAGuQrd-JeM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5284379103)
 * 🖼️ [**View the Poster (PDF)**](https://drive.google.com/file/d/10dMt0Z5cMWz2XbXCJXcG_Fkb8vyKXA_x/view?usp=drive_link)
